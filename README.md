@@ -16,7 +16,7 @@
 
 :star2: Favourite frameworks: SwiftUI, Combine
 
-:rocket: Published app: [Colorista](https://apps.apple.com/us/app/colorista/id1560656381).
+:rocket: Published app: [Colorista](https://apps.apple.com/us/app/colorista/id1560656381)
 
  </div>
   
