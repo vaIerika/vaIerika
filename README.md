@@ -21,8 +21,8 @@
  </div>
   
  <div style="width: 100px; float:right; height:100px">
-   
   
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=vaIerika&hide=prs,issues,contribs&show_icons=true&count_private=trueshow)
    
 </div>
   </div>
