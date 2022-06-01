@@ -5,7 +5,7 @@
   </h1>
 </div>
 
-<div align="center">
+<div align="left">
   <div align="left">
 
 :octocat: Native iOS-developer
