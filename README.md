@@ -1,7 +1,7 @@
 
 <div align="center">
   <h1>
-    <img src="https://media.giphy.com/media/IdsXp5P7AYebfOAgkj/giphy.gif" width="100px" > Glad you visited.
+    <img src="https://media.giphy.com/media/IdsXp5P7AYebfOAgkj/giphy.gif" width="30" > Glad you visited.
   </h1>
 </div>
 
