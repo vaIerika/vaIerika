@@ -8,23 +8,24 @@
 <div align="left">
   <div align="left">
 
-:octocat: Native iOS-developer
-  
-:fish_cake: UI designer 
+  :octocat: Native iOS Developer
 
-:star2: Favourite frameworks: SwiftUI, Combine
+  🧁 UI Designer background
 
-:rocket: Published app: [Colorista](https://apps.apple.com/us/app/colorista/id1560656381)
+  🔖 Article: [Slide to unlock button with SwiftUI](https://www.goodrequest.com/blog/how-to-make-a-slide-to-unlock-button-in-swiftui)
 
   </div>
-    
- </br> 
+
+ </br>
  
+
+<!--
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vaIerika&hide=prs,issues,contribs&theme=vue&show_icons=true&count_private=true)
+ --->
 
 </div>
 
-  
+
 
   <!-- <img src="https://media.giphy.com/media/h2MnYkmrz54ADxiKlo/giphy.gif" width="100px"> -->
   <!--   <img src="https://user-images.githubusercontent.com/44220102/119160961-13160d00-ba59-11eb-880e-92dbc0bc9430.png" width="100px"> -->
