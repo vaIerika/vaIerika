@@ -1,18 +1,24 @@
 
-<div align="center">
-  <h1>
-    <img src="https://media.giphy.com/media/IdsXp5P7AYebfOAgkj/giphy.gif" width="30" > Glad you visited.
-  </h1>
+<div align="left">
+  <h2>
+    <img src="https://media.giphy.com/media/IdsXp5P7AYebfOAgkj/giphy.gif" width="30" > Hey there.
+  </h2>
 </div>
 
 <div align="left">
+
+👩🏼‍💻 I'm a lifelong learner and software developer with a background in UI design.
+
+  :octocat: On this page, you'll find a bunch of my projects and code repositories, including Stanford projects I've studied online.
+
+  🍏 I've got experience in native iOS development and I'm comfortable with Swift and the latest technologies like SwiftUI and Combine.
+  </div>
+  
+   </br>
+   
   <div align="left">
-
-  :octocat: Native iOS Developer
-
-  🧁 UI Designer background
-
-  🔖 Article: [Slide to unlock button with SwiftUI](https://www.goodrequest.com/blog/how-to-make-a-slide-to-unlock-button-in-swiftui)
+    
+> 🔖 Tutorial: [Slide to unlock button with SwiftUI](https://www.goodrequest.com/blog/how-to-make-a-slide-to-unlock-button-in-swiftui)
 
   </div>
 
