@@ -14,7 +14,7 @@
 
 :star2: Favourite frameworks: SwiftUI, Combine
 
-:rocket: Published app: [Colorista](https://apps.apple.com/us/app/colorista/id1560656381)
+:rocket: Article: [Slide to unlock button with SwiftUI](https://www.goodrequest.com/blog/how-to-make-a-slide-to-unlock-button-in-swiftui)
 
   </div>
     
