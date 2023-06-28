@@ -9,9 +9,10 @@
 
 👩🏼‍💻 I'm a lifelong learner and software developer with a background in UI design.
 
-  :octocat: On this page, you'll find a bunch of my projects and code repositories, including Stanford projects I've studied online.
+  :octocat: On this page, you'll find a bunch of my projects and code repositories, including Stanford projects.
 
-  🍏 I've got experience in native iOS development and I'm comfortable with Swift and the latest technologies like SwiftUI and Combine.
+  💛 Native iOS development / Swift / Combine / SwiftUI / Animations 
+  
   </div>
   
    </br>
