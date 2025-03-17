@@ -27,25 +27,12 @@ I'm a lifelong learner. My name is <i>Valerie</i> and I am a Native iOS Develope
 
 > 🔖 Tutorial: [Slide to unlock button with SwiftUI](https://www.goodrequest.com/blog/how-to-make-a-slide-to-unlock-button-in-swiftui)
 
-
-  </div>
-  
-   </br>
-   
-  <div align="left">
-    
-> 
-
-  </div>
-
- </br>
+</div>
 
 
 <!--
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vaIerika&hide=prs,issues,contribs&theme=vue&show_icons=true&count_private=true)
  --->
-
-</div>
 
 
 
