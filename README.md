@@ -34,18 +34,12 @@ I'm a lifelong learner. My name is <i>Valerie</i> and I am a Native iOS Develope
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vaIerika&hide=prs,issues,contribs&theme=vue&show_icons=true&count_private=true)
  --->
 
-
-
   <!-- <img src="https://media.giphy.com/media/h2MnYkmrz54ADxiKlo/giphy.gif" width="100px"> -->
   <!--   <img src="https://user-images.githubusercontent.com/44220102/119160961-13160d00-ba59-11eb-880e-92dbc0bc9430.png" width="100px"> -->
   <!--  <img src="https://media.giphy.com/media/l7GIj25B0rA2FHeWP3/giphy.gif" width="100px"> -->
-
   <!-- <img src="https://media.giphy.com/media/ViNfIcTgHzMNON213e/giphy.gif" width="150px"> --->
 
 <!--
-**vaIerika/vaIerika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
