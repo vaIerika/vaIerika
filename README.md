@@ -27,8 +27,6 @@ I'm a lifelong learner. My name is <i>Valerie</i> and I am a Native iOS Develope
 
 > 🔖 Tutorial: [Slide to unlock button with SwiftUI](https://www.goodrequest.com/blog/how-to-make-a-slide-to-unlock-button-in-swiftui)
 
- </br>
-
 
   </div>
   
