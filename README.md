@@ -21,7 +21,7 @@ I'm a lifelong learner. My name is <i>Valerie</i> and I am a Native iOS Develope
 
 - Contributed to several published apps 📱, including B2B, B2C, and corporate applications — with millions of users worldwide.
 
--  When I'm not coding, I enjoy sports and fun activities 🧗🏼‍♀️
+- When I'm not coding, I keep busy with something fun and active 🧗🏼‍♀️
   
 </br>
 
