@@ -14,12 +14,11 @@ I'm a lifelong learner. My name is <i>Valerie</i> and I am a Native iOS Develope
 <ME> Highlights:
 </h3>
 
-
-- Background in UI/UX design 🎨 and marketing.
-
 - Worked professionally :octocat:  since 2020 and was promoted to a Medior iOS Developer after two years.
 
 - Contributed to several published apps 📱, including B2B, B2C, and corporate applications — with millions of users worldwide.
+
+- Background in UI/UX design 🎨 and marketing.
 
 - When I'm not coding, I keep busy with something fun and active 🧗🏼‍♀️
   
