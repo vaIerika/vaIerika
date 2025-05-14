@@ -14,7 +14,7 @@ I'm a lifelong learner. My name is <i>Valerie</i> and I am a Native iOS Develope
 <ME> Highlights:
 </h3>
 
-- Worked professionally :octocat:  since 2020 and was promoted to a Medior iOS Developer.
+- Worked professionally :octocat:  since 2020.
 
 - Contributed to several published apps 📱, including B2B, B2C, and corporate applications — with millions of users worldwide.
 
